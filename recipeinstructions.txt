@@ -1,0 +1,9 @@
+ingredients: cheese, prosciutto, pickles, crackers, and wine
+step one: open cheese
+step two: open prosciutto
+step three: open pickles
+step four: open crackers
+step five: open wine, allow to breathe 20 minutes
+step six: combine first four ingredients
+step seven: pour wine
+step eight: enjoy!
