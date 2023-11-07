@@ -1,5 +1,5 @@
 ### This is a LOCAL change :)
-line 2 changed remotely
+locally created conflict
 my favourite recipe
 i like pie
 ### This is a REMOTE change :O
