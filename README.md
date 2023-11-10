@@ -12,10 +12,13 @@
 * Last thing
 
 ### A5_step 2.3 <br>
-**<em> Bold and italic <em>** <br>
-
- 
+**<em> Cooter Board <em>** <br>
     
+### A5_step 2.4 <br>    
+
+![Cooter Board](recipe.jpg) <br>
+    
+##### These are old changes from previous assignments: <br>    
 This is a LOCAL change :)
 locally created conflict
 my favourite recipe
